@@ -4,7 +4,7 @@ import'bootstrap/dist/js/bootstrap.bundle.js'
 import './Content1.css'
 import a from'./assets/tom.jpeg'
 import Content2 from './Second/Content2'
-import Content3 from '../../Content3'
+import Content3 from './Third/Content3'
 import Content4 from '../../Content4'
 
 function Content1() {
