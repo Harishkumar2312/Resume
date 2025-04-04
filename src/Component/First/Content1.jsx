@@ -3,9 +3,9 @@ import'bootstrap/dist/css/bootstrap.min.css'
 import'bootstrap/dist/js/bootstrap.bundle.js'
 import './Content1.css'
 import a from'./assets/tom.jpeg'
-import Content2 from './Content2'
-import Content3 from './Content3'
-import Content4 from './Content4'
+import Content2 from '../../Content2'
+import Content3 from '../../Content3'
+import Content4 from '../../Content4'
 
 function Content1() {
   return (
