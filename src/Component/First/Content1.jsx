@@ -50,7 +50,7 @@ function Content1() {
       </nav>
 
       <div>
-        <h1>+About me</h1>
+        <h1 id="about">+About me</h1>
         <p>
           My Name is John Doe, i am a Multi diciplinar designer <br /> Morbi
           Leo Risus, Porta acconsectetur ac, vestibulum at ero bendum nibh
