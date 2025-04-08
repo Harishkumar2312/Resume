@@ -8,7 +8,7 @@ function Content3() {
                 {/* first row */}
                 <div className="row">
                     <div className="col-6">
-                        <h1>+Education</h1>
+                        <h1 id="edu">+Education</h1>
                         <hr />
                         <h4>vubliadadd Marketing</h4>
                         <p>2000-2005 Mandnd</p>
