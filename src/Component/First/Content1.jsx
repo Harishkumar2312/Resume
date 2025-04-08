@@ -35,12 +35,12 @@ function Content1() {
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="#prof">
                   Professional Experience
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="#contact">
                   Contact
                 </a>
               </li>
