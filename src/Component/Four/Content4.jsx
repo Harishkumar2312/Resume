@@ -6,7 +6,7 @@ function Content4() {
             <div className="container">
                 <div className="row">
                     <div className="col-8">
-                        <h1>+Contact</h1>
+                        <h1 id="contact">+Contact</h1>
                         <p>Drop me a line using contact from below</p>
                         <h4>+Contact info:</h4>
                         <div className=" col-lg-6 col-md-6 col-sm-12">
