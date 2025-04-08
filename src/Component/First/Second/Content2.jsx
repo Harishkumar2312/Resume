@@ -6,7 +6,7 @@ function Content2() {
             <div className="container">
                 {/* first row */}
                 <div className="first-row">
-                    <h1 className="a">+ Work Experience</h1>
+                    <h1 className="a" id ="work">+ Work Experience</h1>
                     <p>
                         He trabajado en empresas de publicidad internacionale. Nullarn quis
                         risus eget urna  <br />mollis omare vei eu leo ras lit urus usce rem
